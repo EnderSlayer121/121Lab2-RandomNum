@@ -1,6 +1,6 @@
 # 121Lab2-RandomNum
 
-##Steps to create num game
+## Steps to create num game
 * Import i/o
 
 * Ask for user name
